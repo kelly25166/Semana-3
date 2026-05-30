@@ -1,0 +1,1 @@
+Mantener un registro de cambios con Git es fundamental porque permite rastrear cada modificación en el código, facilitar el trabajo colaborativo simultáneo y recuperar versiones anteriores de manera instantánea si algo falla. Esto garantiza la estabilidad y trazabilidad del proyecto.
